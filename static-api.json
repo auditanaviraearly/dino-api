@@ -1,0 +1,52 @@
+[
+  {
+    "nama": "Tyrannosaurus Rex",
+    "namaLatin": "Tyrannosaurus rex",
+    "imageId": "tyrannosaurus"
+  },
+  {
+    "nama": "Triceratops",
+    "namaLatin": "Triceratops horridus",
+    "imageId": "triceratops"
+  },
+  {
+    "nama": "Stegosaurus",
+    "namaLatin": "Stegosaurus stenops",
+    "imageId": "stegosaurus"
+  },
+  {
+    "nama": "Velociraptor",
+    "namaLatin": "Velociraptor mongoliensis",
+    "imageId": "velociraptor"
+  },
+  {
+    "nama": "Brachiosaurus",
+    "namaLatin": "Brachiosaurus altithorax",
+    "imageId": "brachiosaurus"
+  },
+  {
+    "nama": "Spinosaurus",
+    "namaLatin": "Spinosaurus aegyptiacus",
+    "imageId": "spinosaurus"
+  },
+  {
+    "nama": "Ankylosaurus",
+    "namaLatin": "Ankylosaurus magniventris",
+    "imageId": "ankylosaurus"
+  },
+  {
+    "nama": "Allosaurus",
+    "namaLatin": "Allosaurus fragilis",
+    "imageId": "allosaurus"
+  },
+  {
+    "nama": "Pteranodon",
+    "namaLatin": "Pteranodon longiceps",
+    "imageId": "pteranodon"
+  },
+  {
+    "nama": "Parasaurolophus",
+    "namaLatin": "Parasaurolophus walkeri",
+    "imageId": "parasaurolophus"
+  }
+]
